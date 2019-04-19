@@ -20,4 +20,4 @@ On Heroku
 
 If successfully deployed, application.herokuapps.com will be given.
 
-https://beescolony.herokuapps.com
+https://beescolony.herokuapp.com
